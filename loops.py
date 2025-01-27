@@ -161,4 +161,4 @@ for num in range(first_number, last_number +1):
 #     count +=1 
 #     print(count)
 
-seome changes done
+list_1= ["radha","indra", "shravan"]
